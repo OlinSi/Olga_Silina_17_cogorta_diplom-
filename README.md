@@ -1,2 +1,2 @@
 # Ольга Силина, 17-я когорта — Финальный проект. Инженер по тестированию плюс
-## Для запуска теста необходимо в файл configuration.py сопировать URL стенда https://{id}.serverhub.praktikum-services.ru
+## Для запуска теста необходимо в файл configuration.py скопировать URL стенда https://{id}.serverhub.praktikum-services.ru
