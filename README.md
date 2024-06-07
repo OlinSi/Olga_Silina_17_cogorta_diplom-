@@ -1,1 +1,2 @@
-# Olga_Silina_17_cogorta_diplom-
+# Ольга Силина, 17-я когорта — Финальный проект. Инженер по тестированию плюс
+## Для запуска теста необходимо в файл configuration.py сопировать URL стенда https://{id}.serverhub.praktikum-services.ru
